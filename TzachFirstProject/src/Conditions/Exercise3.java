@@ -7,15 +7,13 @@ public class Exercise3 {
 		long b = 1;
 		if (a > b) {
 			System.out.println(" a is the bigest number ");
-		}
-		else {
+		} else {
 			if (b > a) {
 				System.out.println("b is the bigest number");
-			}
-			else {
+			} else {
 				System.out.println("The variables are equal");
 			}
-			}
+		}
 	}
 
 }
